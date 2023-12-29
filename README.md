@@ -29,19 +29,18 @@ In the final step, the trained model is integrated into a real-time face recogni
 
 # Features Included:
 
-# 1).Development of Webpage using Flask:
+# Development of Webpage using Flask:
+We have developed a webpage using Flask which transfers the image in the form of base 64 String Format and apply the model deployed and calculate the probabilitscore of the image given as input.Here is the Model Deployment that is shown below.
 
-                    - We have developed a webpage using Flask which transfers the image in the form of base 64 String Format and apply the model deployed and calculate the probabilitscore of the image given as input.Here is the Model Deployment that is shown below.
+![image](https://github.com/KAVINT21/Facial_Emotion_Detection/assets/95117554/d57e076f-fce9-479a-a807-5985c54aa410)
 
-                    ![image](https://github.com/KAVINT21/Facial_Emotion_Detection/assets/95117554/d57e076f-fce9-479a-a807-5985c54aa410)
+After the Image Uploaded:
 
-                    After the Image Uploaded:
+![image](https://github.com/KAVINT21/Facial_Emotion_Detection/assets/95117554/c87b26c9-146a-4366-8e3f-a568eedb152b)
 
-                    ![image](https://github.com/KAVINT21/Facial_Emotion_Detection/assets/95117554/c87b26c9-146a-4366-8e3f-a568eedb152b)
+#Real Time Facial Emotion Detection Implementation:
 
-# 2).Real Time Facial Emotion Detection Implementation:
-
-                   ![image](https://github.com/KAVINT21/Facial_Emotion_Detection/assets/95117554/b1df61b5-e74d-4ac3-9445-5c514283671b)
+![image](https://github.com/KAVINT21/Facial_Emotion_Detection/assets/95117554/b1df61b5-e74d-4ac3-9445-5c514283671b)
 
 
 # Conclusion:
